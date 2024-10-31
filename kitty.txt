@@ -1,0 +1,5 @@
+"Name: Kizzle
+Age: 2
+Loves: playtime and treats
+Good with other cats? yes
+Waffle stealer? yes"
